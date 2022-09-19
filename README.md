@@ -1,5 +1,4 @@
-# Desafio de projeto Git/Githib da Dio
-Repositório criado para o desafio de projeto.
+# Primeiro exercicios de Python( DNC)
+Repositório criado para curso de Cientista de dados.
 
-## Links Úteis
-[Sintaxe basica markdown] (http://www.markdownguide.org/basic-syntax/)
+
